@@ -2,7 +2,7 @@
 "getsubd" is a tool to discover subdomains from domain. This tool is made with python3 and use IndoXploit's API to get the subdomains list.
 
 <p align="center">
-img src="https://raw.githubusercontent.com/fathan0x1/getsubd/master/screenshot.png" width=450>
+<img src="https://raw.githubusercontent.com/fathan0x1/getsubd/master/screenshot.png" width=450>
 </p>
 
 # how to install
