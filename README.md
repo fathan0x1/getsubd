@@ -3,6 +3,7 @@
 
 ![getsubd](https://raw.githubusercontent.com/fathan0x1/getsubd/master/screenshot.png =350x)
 ![](https://raw.githubusercontent.com/fathan0x1/getsubd/master/screenshot.png =100x20)
+<img src="https://raw.githubusercontent.com/fathan0x1/getsubd/master/screenshot.png" width=300 align=right>
 
 # how to install
 ```sh
